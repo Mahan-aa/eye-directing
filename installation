@@ -1,0 +1,7 @@
+pip3.8 install cmake
+pip3.8 install imutils
+pip3.8 install dlib.whl
+pip3.8 install numpy
+pip3.8 install tkinter
+pip3.8 install Pillow
+pip3.8 install opencv-python
