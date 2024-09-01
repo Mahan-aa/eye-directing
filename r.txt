@@ -1,0 +1,6 @@
+cmake
+imutils
+numpy
+tkinter
+Pillow
+opencv-python
